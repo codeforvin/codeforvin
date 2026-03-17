@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hi 👋 I'm Vinayak Pandey<br><br>🎓 B.Tech Computer Science & Engineering (2025)  <br>💻 Aspiring Software Engineer passionate about building real-world solutions  <br><br>I enjoy working with Python, SQL, and Web Technologies.  <br>My interests include software development, data analysis, and problem solving.  <br><br>🔭 Currently improving my skills in Data Structures, Analytics and Machine learning.  <br>🚀 I love building projects and learning new technologies.<br><br>
 
 
