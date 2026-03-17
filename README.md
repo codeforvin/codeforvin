@@ -1,24 +1,22 @@
 <h1 align="center">Hi 👋, I'm Vinayak Pandey</h1>
-<h3 align="center">Aspiring Software Engineer | B.Tech CSE 2025</h3>
 
 <p align="center">
-💻 Passionate about building real-world software solutions <br>
-📊 Interested in Data Analytics, Machine Learning & Web Development
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=22F7E2&center=true&vCenter=true&width=600&lines=Software+Engineer;B.Tech+CSE+2025;Python+%7C+Web+Developer;Data+Analytics+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/59482366/208565271-b049488b-737c-4a4d-83e6-62abd71fe92c.gif" width="400"/>
+<img src="https://user-images.githubusercontent.com/59482366/208565271-b049488b-737c-4a4d-83e6-62abd71fe92c.gif" width="450"/>
 </p>
 
 ---
 
 # 🚀 About Me
 
-- 🎓 **B.Tech Computer Science & Engineering (2025)**
-- 💻 Interested in **Software Development & Data Analytics**
-- 🔭 Currently learning **Data Structures, Machine Learning & Analytics**
-- 🧠 Strong interest in **problem solving and building projects**
-- 🚀 Always exploring **new technologies**
+🎓 B.Tech Computer Science & Engineering (2025)  
+💻 Aspiring **Software Engineer** passionate about building real-world applications  
+📊 Interested in **Data Analytics, Machine Learning & Web Development**  
+🧠 Strong interest in **problem solving and software engineering**  
+🚀 Always learning **new technologies and frameworks**
 
 ---
 
@@ -60,11 +58,31 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=codeforvin&theme=tokyonight&hide_border=true&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=codeforvin&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=codeforvin&theme=tokyonight&hide_border=true"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeforvin&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codeforvin&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
