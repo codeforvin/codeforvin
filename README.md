@@ -1,7 +1,7 @@
 <!-- ================= BANNER ================= -->
 
 <p align="center">
-<img src="https://messages-prod.27c852f3500f38c1e7786e2c9ff9e48f.r2.cloudflarestorage.com/019caea2-2512-74a2-9975-47646f71bfcc/1773726265079-019cfa52-8443-7640-b407-6b06b0b55aaf.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=75514238966d6677c3874ef9149f1398%2F20260317%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260317T054425Z&X-Amz-Expires=3600&X-Amz-Signature=c6ea445c3937582b19381551e713c12773e63c6cd6f6bc92945c06c0947ba0aa&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject" width="100%">
+<img src="https://messages-prod.27c852f3500f38c1e7786e2c9ff9e48f.r2.cloudflarestorage.com/019caea2-2512-74a2-9975-47646f71bfcc/1773726265079-019cfa52-8443-7640-b407-6b06b0b55aaf.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=75514238966d6677c3874ef9149f1398%2F20260317%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260317T054425Z&X-Amz-Expires=3600&X-Amz-Signature=c6ea445c3937582b19381551e713c12773e63c6cd6f6bc92945c06c0947ba0aa&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject" width="100%" height="200">
 </p>
 
 <h1 align="center">Hi 👋 I'm Vinayak Pandey</h1>
@@ -21,10 +21,10 @@
 🎓 **B.Tech Computer Science & Engineering (2025)**
 💻 Aspiring **Software Engineer passionate about building real-world solutions**
 
-* 🔭 Improving **Data Structures & Machine Learning**
+* 🔭 Currently improving **Data Structures & Machine Learning**
 * 📊 Interested in **Data Analytics**
 * 🌐 Exploring **Full Stack Development**
-* 🚀 I enjoy building projects and learning new technologies
+* 🚀 Love building projects and learning new technologies
 
 ### 🌐 Connect With Me
 
@@ -40,7 +40,7 @@
 
 <td width="40%" align="center">
 
-<img src="https://user-images.githubusercontent.com/59482366/208565271-b049488b-737c-4a4d-83e6-62abd71fe92c.gif" width="320"/>
+<img src="https://user-images.githubusercontent.com/59482366/208565271-b049488b-737c-4a4d-83e6-62abd71fe92c.gif" width="300"/>
 
 </td>
 
@@ -101,7 +101,5 @@
 ---
 
 <p align="center">
-
 ✨ <b>Code • Learn • Build • Repeat</b> ✨
-
 </p>
