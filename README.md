@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinayak Pandey</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=22F7E2&center=true&vCenter=true&width=600&lines=Software+Engineer;B.Tech+CSE+2025;Python+%7C+Web+Developer;Data+Analytics+Enthusiast;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Software+Engineer;B.Tech+CSE+2025;Python+Developer;Data+Analytics+Enthusiast;Building+Projects+and+Learning+Everyday"/>
 </p>
 
 <p align="center">
@@ -12,11 +12,11 @@
 
 # 🚀 About Me
 
-🎓 B.Tech Computer Science & Engineering (2025)  
-💻 Aspiring **Software Engineer** passionate about building real-world applications  
+🎓 **B.Tech Computer Science & Engineering (2025)**  
+💻 Aspiring **Software Engineer** passionate about building real-world solutions  
 📊 Interested in **Data Analytics, Machine Learning & Web Development**  
 🧠 Strong interest in **problem solving and software engineering**  
-🚀 Always learning **new technologies and frameworks**
+🚀 Always learning **new technologies**
 
 ---
 
@@ -54,6 +54,16 @@
 
 ---
 
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=codeforvin&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+</p>
+
+---
+
 # 📊 GitHub Stats
 
 <p align="center">
@@ -68,7 +78,7 @@
 
 ---
 
-# 📈 GitHub Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -97,5 +107,7 @@
 ---
 
 <p align="center">
-✨ <i>"Code. Learn. Build. Repeat."</i> ✨
+
+✨ **Code • Learn • Build • Repeat** ✨
+
 </p>
