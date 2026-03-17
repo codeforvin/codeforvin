@@ -1,22 +1,23 @@
 <h1 align="center">Hi 👋, I'm Vinayak Pandey</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Software+Engineer;B.Tech+CSE+2025;Python+Developer;Data+Analytics+Enthusiast;Building+Projects+and+Learning+Everyday"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Software+Engineer;B.Tech+CSE+2025;Python+Developer;Data+Analytics+Enthusiast;Always+Learning+New+Things"/>
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/59482366/208565271-b049488b-737c-4a4d-83e6-62abd71fe92c.gif" width="450"/>
+  <img src="https://user-images.githubusercontent.com/59482366/208565271-b049488b-737c-4a4d-83e6-62abd71fe92c.gif" width="420"/>
 </p>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-🎓 **B.Tech Computer Science & Engineering (2025)**  
-💻 Aspiring **Software Engineer** passionate about building real-world solutions  
-📊 Interested in **Data Analytics, Machine Learning & Web Development**  
-🧠 Strong interest in **problem solving and software engineering**  
-🚀 Always learning **new technologies**
+- 🎓 **B.Tech Computer Science & Engineering (2025)**
+- 💻 Aspiring **Software Engineer**
+- 📊 Interested in **Data Analytics & Machine Learning**
+- 🌐 Exploring **Full Stack Development**
+- 🧠 Strong interest in **Problem Solving & Algorithms**
+- 🚀 Passionate about **building real-world projects**
 
 ---
 
@@ -24,7 +25,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/vinayak-pandey-8514ba2bb/">
+<a href="https://www.linkedin.com/in/vinayak-pandey-8514ba2bb">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -40,21 +41,21 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,html,css,js,java,python,flask,django,mongodb,mysql,git,github"/>
+<img src="https://skillicons.dev/icons?i=c,html,css,js,java,python,flask,django,mongodb,mysql,git,github&theme=dark"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <p align="center">
 
@@ -72,13 +73,17 @@
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=codeforvin&theme=tokyonight&hide_border=true"/>
 
+</p>
+
+<p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeforvin&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 GitHub Contribution Graph
 
 <p align="center">
 
@@ -98,16 +103,16 @@
 
 ---
 
-# 👀 Profile Views
+# 👀 Profile Visitors
 
 <p align="center">
+
 <img src="https://visitcount.itsvg.in/api?id=codeforvin&icon=5&color=12"/>
+
 </p>
 
 ---
 
 <p align="center">
-
-✨ **Code • Learn • Build • Repeat** ✨
-
+✨ <i>"Code • Learn • Build • Repeat"</i> ✨
 </p>
