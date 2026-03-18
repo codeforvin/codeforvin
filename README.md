@@ -1,15 +1,13 @@
 <!-- ================= BANNER ================= -->
 
 <p align="center">
-<img src="https://messages-prod.27c852f3500f38c1e7786e2c9ff9e48f.r2.cloudflarestorage.com/019caea2-2512-74a2-9975-47646f71bfcc/1773726265079-019cfa52-8443-7640-b407-6b06b0b55aaf.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=75514238966d6677c3874ef9149f1398%2F20260317%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260317T054425Z&X-Amz-Expires=3600&X-Amz-Signature=c6ea445c3937582b19381551e713c12773e63c6cd6f6bc92945c06c0947ba0aa&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject" width="100%" height="400">
+<img src="https://messages-prod.27c852f3500f38c1e7786e2c9ff9e48f.r2.cloudflarestorage.com/019caea2-2512-74a2-9975-47646f71bfcc/1773727022987-019cfa5d-4b40-776b-aab7-4a148787ae4d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=75514238966d6677c3874ef9149f1398%2F20260318%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260318T033011Z&X-Amz-Expires=3600&X-Amz-Signature=594d2438fbbe3edd0037cd2c368149734a8d39586fdc9ffb7c985991ab7dbb84&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject" width="100%" height="200">
 </p>
 
 <h1 align="center">Hi 👋 I'm Vinayak Pandey</h1>
 <h3 align="center">Software Engineer • Python Developer • Data Analytics Enthusiast</h3>
 
 ---
-
-<!-- ================= ABOUT + GIF ================= -->
 
 <table>
 <tr>
@@ -22,8 +20,8 @@
 💻 Aspiring **Software Engineer passionate about building real-world solutions**
 
 * 🔭 Currently improving **Data Structures & Machine Learning**
+* 🤖 Exploring **Artificial Intelligence**
 * 📊 Interested in **Data Analytics**
-* 🌐 Exploring **Full Stack Development**
 * 🚀 Love building projects and learning new technologies
 
 ### 🌐 Connect With Me
@@ -48,8 +46,6 @@
 </table>
 
 ---
-
-<!-- ================= TECH STACK ================= -->
 
 ### 💻 Tech Stack
 
@@ -83,8 +79,6 @@
 </p>
 
 ---
-
-<!-- ================= GITHUB STATS ================= -->
 
 ### 📊 GitHub Stats
 
