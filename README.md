@@ -1,11 +1,11 @@
 <!-- ================= BANNER ================= -->
 
 <p align="center">
-<img src="https://messages-prod.27c852f3500f38c1e7786e2c9ff9e48f.r2.cloudflarestorage.com/019caea2-2512-74a2-9975-47646f71bfcc/1773727022987-019cfa5d-4b40-776b-aab7-4a148787ae4d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=75514238966d6677c3874ef9149f1398%2F20260318%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260318T033011Z&X-Amz-Expires=3600&X-Amz-Signature=594d2438fbbe3edd0037cd2c368149734a8d39586fdc9ffb7c985991ab7dbb84&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject" width="300%" height="300">
+<img src="https://messages-prod.27c852f3500f38c1e7786e2c9ff9e48f.r2.cloudflarestorage.com/019caea2-2512-74a2-9975-47646f71bfcc/1773727022987-019cfa5d-4b40-776b-aab7-4a148787ae4d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=75514238966d6677c3874ef9149f1398%2F20260318%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260318T033011Z&X-Amz-Expires=3600&X-Amz-Signature=594d2438fbbe3edd0037cd2c368149734a8d39586fdc9ffb7c985991ab7dbb84&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject" width="100%" height="180"/>
 </p>
 
 <h1 align="center">Hi 👋 I'm Vinayak Pandey</h1>
-<h3 align="center">Software Engineer • Python Developer • Data Analytics Enthusiast</h3>
+<h3 align="center">Software Engineer • Python Developer • Data Analytics • AI Enthusiast</h3>
 
 ---
 
@@ -17,12 +17,12 @@
 ### 🚀 About Me
 
 🎓 **B.Tech Computer Science & Engineering (2025)**
-💻 Aspiring **Software Engineer passionate about building real-world solutions**
+💻 Aspiring **Software Engineer building real-world solutions**
 
-* 🔭 Currently improving **Data Structures & Machine Learning**
+* 🔭 Improving **Data Structures & Machine Learning**
 * 🤖 Exploring **Artificial Intelligence**
 * 📊 Interested in **Data Analytics**
-* 🚀 Love building projects and learning new technologies
+* ⚡ Passionate about **software development and automation**
 
 ### 🌐 Connect With Me
 
@@ -38,7 +38,7 @@
 
 <td width="40%" align="center">
 
-<img src="https://user-images.githubusercontent.com/59482366/208565271-b049488b-737c-4a4d-83e6-62abd71fe92c.gif" width="300"/>
+<img src="https://user-images.githubusercontent.com/59482366/208565271-b049488b-737c-4a4d-83e6-62abd71fe92c.gif" width="280"/>
 
 </td>
 
@@ -47,48 +47,39 @@
 
 ---
 
-### 💻 Tech Stack
+# 💻 Tech Stack
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas"/>
-<img src="https://img.shields.io/badge/Matplotlib-000000?style=flat"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,django,flask,mysql,mongodb,git,github&theme=dark"/>
 
 </p>
 
 ---
 
-### 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=codeforvin&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=codeforvin&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeforvin&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeforvin&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img height="150" src="https://nirzak-streak-stats.vercel.app/?user=codeforvin&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+
+<img height="160" src="https://nirzak-streak-stats.vercel.app/?user=codeforvin&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codeforvin&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
