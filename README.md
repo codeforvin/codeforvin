@@ -14,15 +14,15 @@
 
 <td width="60%">
 
-### 🚀 About Me
+###  About Me
 
-🎓 **B.Tech Computer Science & Engineering (2025)**
-💻 Aspiring **Software Engineer building real-world solutions**
+**B.Tech Computer Science & Engineering (2025)**
+Aspiring **Software Engineer building real-world solutions**
 
-* 🔭 Improving **Data Structures & Machine Learning**
-* 🤖 Exploring **Artificial Intelligence**
-* 📊 Interested in **Data Analytics**
-* ⚡ Passionate about **software development and automation**
+* Improving **Data Structures & Machine Learning**
+* Exploring **Artificial Intelligence**
+* Interested in **Data Analytics**
+* Passionate about **software development and automation**
 
 ### 🌐 Connect With Me
 
@@ -47,7 +47,7 @@
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
 <p align="center">
 
@@ -57,7 +57,7 @@
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <p align="center">
 
@@ -75,7 +75,7 @@
 
 ---
 
-# 📈 GitHub Activity
+# GitHub Activity
 
 <p align="center">
 
