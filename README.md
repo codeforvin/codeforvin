@@ -1,4 +1,4 @@
-[<!-- ================= BANNER ================= -->
+<!-- ================= BANNER ================= -->
 
 <p align="center">
   <img src="https://messages-prod.27c852f3500f38c1e7786e2c9ff9e48f.r2.cloudflarestorage.com/019caea2-2512-74a2-9975-47646f71bfcc/1773727022987-019cfa5d-4b40-776b-aab7-4a148787ae4d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=75514238966d6677c3874ef9149f1398%2F20260415%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260415T141152Z&X-Amz-Expires=3600&X-Amz-Signature=d0e1ba8ed933afa06a32d4af8cec3788b30a20122782f765e8485d72c59bcee8&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject"/>
